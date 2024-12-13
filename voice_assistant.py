@@ -1,3 +1,5 @@
+#activation word - "Jarvis"
+
 from datetime import date
 from io import BytesIO
 import threading
